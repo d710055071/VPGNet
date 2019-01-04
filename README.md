@@ -33,6 +33,7 @@ Please cite [VPGNet](http://openaccess.thecvf.com/content_iccv_2017/html/Lee_VPG
 2. Prepare dataset from Caltech Lanes Dataset.<br/>
 (Our dataset is currently being reviewed by Samsung Research. This baseline doesn't need VP annotations.)
     - Download [Caltech Lanes Dataset](http://www.mohamedaly.info/datasets/caltech-lanes).
+    - New http://www.vision.caltech.edu/malaa/datasets/caltech-lanes/
     - Organize the file structure as below.
     ```Shell
     |__ VPGNet
